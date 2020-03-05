@@ -2,11 +2,11 @@
 
 ## Getting started
 
-These docs are build with Gitbook v1.
+These docs are build with Gitbook v1. For more instructions with the gitbook-cli, look [here.](https://github.com/GitbookIO/gitbook-cli)
 
 To get setup for contributing to the docs is a quick process.
 
-1. clone the repo ```git clone https://github.com/AlbertaSat/albertasat.github.io.git```
+1. clone the repo ```git clone https://github.com/AlbertaSat/docs.git```
 2. cd into the repo and run ```npm install```
 3. to serve locally, run ```gitbook serve``` and open your browser to ```http://localhost:4000```
 4. Edit your files!

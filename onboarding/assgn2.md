@@ -1,3 +1,5 @@
+# Assignment 2
+
 2. Requirements:
 You must create a multi-threaded program using the POSIX pthread API. You will be simulating some functionality of the power system on a spacecraft. Your program must update the battery's voltage, current and temperature readings constantly. We must also check these values to see that the values are within an expected range, and finally check to see if the power system as a whole is doing okay.
 You should have at least three thread's in your program, all sharing a single resource that is the battery (in the form of the battery vector array).
