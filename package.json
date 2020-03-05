@@ -1,0 +1,22 @@
+{
+  "name": "albertasat.github.io",
+  "version": "1.0.0",
+  "description": "Docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertaSat/albertasat.github.io.git"
+  },
+  "author": "Konrad Staniszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertaSat/albertasat.github.io/issues"
+  },
+  "homepage": "https://github.com/AlbertaSat/albertasat.github.io#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
